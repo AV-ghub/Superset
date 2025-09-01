@@ -3,12 +3,13 @@ List самых полезных и наглядных ресурсов, сгр�
 ### 1. Официальные ресурсы (Fundamentals)
 
 *   **Официальная документация Apache Superset:**
-    *   [Tutorials — Apache Superset](https://superset.apache.org/docs/tutorials) — базовые уроки от создателей.
-    *   [Videos — Apache Superset](https://superset.apache.org/docs/videos) — подборка видео с официального канала.
+    *   [Resources](https://superset.apache.org/docs/6.0.0/intro#resources) — ресурсы.
+    *   [Tutorials — Apache Superset](https://superset.apache.org/docs/6.0.0/using-superset/exploring-data#exploring-data-in-superset) — базовые уроки от создателей.
+    *   [Preset](https://docs.preset.io/docs/getting-started)
     *   *Плюсы:* Самая актуальная информация. *Минусы:* Не всегда самые сложные кейсы.
 
 *   **Официальный YouTube-канал Apache Superset:**
-    *   [Apache Superset YouTube Channel](https://www.youtube.com/c/ApacheSuperset) — записи с митапов, демо новых фич.
+    *   [Apache Superset YouTube Channel](https://www.youtube.com/@Preset-io) — записи с митапов, демо новых фич.
 
 ### 2. Лучшие YouTube-каналы (Визуальное обучение)
 
