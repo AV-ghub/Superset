@@ -1,14 +1,14 @@
 # Встроенные и внешние средства для автоматизированного переноса объектов между средами
-[1](https://blog.csdn.net/u013985879/article/details/139992318)  
-[2](https://blog.csdn.net/weixin_42502742/article/details/136850085)  
-[3](https://blog.csdn.net/kbhghbhk/article/details/134854615)  
-[4](https://superset.org.cn/docs/configuration/importing-exporting-datasources)  
-[5](https://blog.csdn.net/m0_60125201/article/details/138320841)  
-[6](https://www.oschina.net/news/340839/apache-superset-4-1-2-released)  
-[7](https://superset.hacker-linner.com/configuration/importing-exporting-datasources/)  
-[8](https://blog.csdn.net/gitblog_01046/article/details/151596114)  
-[9](https://www.redhat.com/zh-cn/topics/devops/what-is-ci-cd)  
-[10](https://www.oschina.net/news/262432/apache-superset-3-0-1-released)  
+[1](https://blog.csdn.net/u013985879/article/details/139992318) 
+[2](https://blog.csdn.net/weixin_42502742/article/details/136850085) 
+[3](https://blog.csdn.net/kbhghbhk/article/details/134854615) 
+[4](https://superset.org.cn/docs/configuration/importing-exporting-datasources) 
+[5](https://blog.csdn.net/m0_60125201/article/details/138320841) 
+[6](https://www.oschina.net/news/340839/apache-superset-4-1-2-released) 
+[7](https://superset.hacker-linner.com/configuration/importing-exporting-datasources/) 
+[8](https://blog.csdn.net/gitblog_01046/article/details/151596114) 
+[9](https://www.redhat.com/zh-cn/topics/devops/what-is-ci-cd) 
+[10](https://www.oschina.net/news/262432/apache-superset-3-0-1-released) 
 
 Организовать полноценный CI/CD процесс для развертывания датасетов, чартов и дашбордов вполне [возможно](https://blog.csdn.net/weixin_42502742/article/details/136850085).
 
