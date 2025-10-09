@@ -1,4 +1,6 @@
 # Jinja-шаблоны для передачи параметров фильтрации
+[SQL Templating](https://superset.apache.org/docs/configuration/sql-templating/)  [Parametrizing Queries Using Jinja](https://docs.preset.io/docs/parametrizing-queries-using-jinja)  [Intro To Jinja Templating in Apache Superset](https://preset.io/blog/intro-jinja-templating-apache-superset/)  [Creating Custom Filters on Apache Superset](https://aurigait.com/blog/creating-custom-filters-on-apache-superset/)  [In Apache Superset issue with use of Jinja parameters](https://stackoverflow.com/questions/78959323/in-apache-superset-issue-with-use-of-jinja-parameters) [Parametrizing Queries Using Jinja](https://docs.preset.io/docs/parametrizing-queries-using-jinja)  
+
 В Superset можно использовать Jinja-шаблоны для передачи параметров фильтрации непосредственно в SQL-запрос, что позволяет избежать неэффективной фильтрации "снаружи" и значительно ускорить выполнение запроса.   
 
 Для этого используется макрос `filter_values()` .
